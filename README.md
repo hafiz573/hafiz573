@@ -5,8 +5,8 @@
 - 📫 How to reach me join my discord 
 Link: https://discord.gg/3tsWMB7DHP
 - my age is 14
+- I'm from 🇮🇩INDONESIA
 
--I'm from 🇮🇩INDONESIA
 
 
 <!---
