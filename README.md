@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me join my discord 
 Link: https://discord.gg/6fYcQE3SjN
-- my age is 14
+- my age is 16
 - I'm from 🇮🇩INDONESIA
 
 
