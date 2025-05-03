@@ -75,6 +75,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz573&" alt="hafiz573" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiz573&show_icons=true&locale=en" alt="hafiz573" /></p>
 
 ###
