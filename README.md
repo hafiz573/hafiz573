@@ -75,6 +75,6 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiz573&show_icons=true&locale=en" alt="hafiz573" /></p>
+<img src="https://raw.githubusercontent.com/hafiz573/hafiz573/output/snake.svg" alt="Snake animation" />
 
 ###
