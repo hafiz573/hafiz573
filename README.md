@@ -6,12 +6,6 @@
 
 <br clear="both">
 
-<p align="left">——————————————————————————————————————————————————————————</p>
-
-###
-
-<br clear="both">
-
 <h3 align="center">Frontend Developer | Backend Developer | Bot Discord Developer</h3>
 
 ###
