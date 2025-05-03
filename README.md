@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hafiz573/hafiz573/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz573&" alt="hafiz573" /></p>
 
 ###
