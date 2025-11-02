@@ -1,6 +1,8 @@
 <br clear="both">
 
 <h1 align="center">Hi, I'm Hafiz M. Fiqar</h1>
+<p>I'm a Junior Fullstack Programmer currently studying at SMK Hidayah Semarang.</p>
+<p>im excited to learn and suffering in this.</p>
 
 ###
 
@@ -64,14 +66,6 @@
   <a href="https://discord.gg/3x3987mADd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafiz573&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz573&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz573&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
