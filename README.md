@@ -4,7 +4,8 @@
 <p>I'm a <strong>Junior Fullstack Programmer</strong> currently studying at <strong>SMK Hidayah Semarang.</strong></p>
 <p>im excited to learn and suffering in this.</p>
 
-<a>I have my portfolio <a herf="https://hafiz.icu">website</a> if you are interested maybe you can visit it</a>
+<h3>I have my portfolio website if you are interested maybe you can visit it</h3>
+<p>https://hafiz.icu</p>
 
 ###
 
